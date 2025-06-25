@@ -1,0 +1,29 @@
+###
+POST http://127.0.0.1:3001/libro/post/libros
+Content-Type: application/json
+
+ {
+    "titulo": "CR/",
+    "autor": "Cris",
+    "anio": 1990
+  }
+
+###
+PUT http://localhost:3001/libro/update/221ac63a-d705-4967-94bf-30041947bcdb
+Content-Type: application/json
+
+{
+  "titulo": "Viejo titulooooo",
+  "autor": "Un viejo",
+  "anio": 1990
+}
+
+
+###
+GET http://127.0.0.1:3001/libro/
+
+###
+GET http://127.0.0.1:3001/libro/929d194a-d794-47c1-a82d-553b438b5869
+
+### arreglar
+DELETE http://127.0.0.1:3001/libro/delete/5e60e44f-9803-480f-b825-b09438e99d15

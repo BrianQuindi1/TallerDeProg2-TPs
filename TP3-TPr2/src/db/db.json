@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "año": 1949
+  },
+  {
+    "id": "929d194a-d794-47c1-a82d-553b438b5869",
+    "titulo": "El Principito",
+    "autor": "Antoine de Saint-Exupéry",
+    "anio": 1943
+  },
+  {
+    "id": "bd33c7da-0627-43ad-8b59-29d1bf6d775a",
+    "titulo": "Viejo titulooooo",
+    "autor": "Un viejo",
+    "anio": 1990
+  },
+  {
+    "id": "2d39b540-6886-4e12-b068-475343709c3a",
+    "titulo": "MESISMO",
+    "autor": "Leo Messi",
+    "anio": 2022
+  },
+  {
+    "id": "221ac63a-d705-4967-94bf-30041947bcdb",
+    "titulo": "Viejo titulooooo",
+    "autor": "Un viejo",
+    "anio": 1990
+  }
+]
